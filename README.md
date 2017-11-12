@@ -1,17 +1,12 @@
-![typeexample](https://user-images.githubusercontent.com/441117/32694829-7ee59588-c718-11e7-9160-48397187daea.png)
+# Wonder Unit Sans
 
-
-# Wonder Unit Font
-
-Description
+This is a free and open source sans-serif font, brought to you by [Wonder Unit](https://wonderunit.com).
 
 ## Download
 
-[Download the project](https://github.com/wonderunit/font-wonder-unit/archive/master.zip)
+[Download the typeface!](https://github.com/wonderunit/font-wonder-unit/archive/master.zip)
 
-## Italics
-
-Italics are very ugly.
+![typeexample](https://user-images.githubusercontent.com/441117/32694829-7ee59588-c718-11e7-9160-48397187daea.png)
 
 ## TODO
 
