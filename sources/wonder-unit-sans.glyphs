@@ -1,5 +1,10 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+A,
+/Lcaron,
+"\U00DB"
+);
 copyright = "Copyright © 2017 by Wonder Unit. All rights reserved.";
 customParameters = (
 {
@@ -13,9 +18,24 @@ value = "Hi Friends!";
 {
 name = isFixedPitch;
 value = 0;
+},
+{
+name = panose;
+value = (
+2,
+0,
+5,
+6,
+3,
+0,
+0,
+2,
+0,
+4
+);
 }
 );
-date = "2017-11-11 22:21:52 +0000";
+date = "2017-11-16 21:31:21 +0000";
 designer = "Charles Forman";
 designerURL = "https://wonderunit.com";
 disablesNiceNames = 1;
@@ -62,7 +82,7 @@ alignmentZones = (
 "{0, -7}",
 "{-210, -16}"
 );
-ascender = 790;
+ascender = 990;
 capHeight = 667;
 customParameters = (
 {
@@ -79,19 +99,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 920;
+value = 790;
 },
 {
 name = winDescent;
-value = 298;
+value = -210;
 },
 {
 name = hheaAscender;
-value = 920;
+value = 790;
 },
 {
 name = hheaDescender;
-value = -298;
+value = -210;
 },
 {
 name = underlinePosition;
@@ -115,10 +135,20 @@ position = "{412, 638}";
 position = "{263, 566}";
 }
 );
+horizontalStems = (
+21,
+104,
+178
+);
 id = "C74BD54B-DC3B-4084-AB10-E48D432FD11D";
 userData = {
 GSCornerRadius = 30;
 };
+verticalStems = (
+132,
+180,
+205
+);
 visible = 1;
 weight = Light;
 widthValue = 5;
@@ -153,7 +183,7 @@ value = 790;
 },
 {
 name = winDescent;
-value = 210;
+value = -210;
 },
 {
 name = hheaAscender;
@@ -237,19 +267,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 920;
+value = 790;
 },
 {
 name = winDescent;
-value = 298;
+value = -210;
 },
 {
 name = hheaAscender;
-value = 920;
+value = 790;
 },
 {
 name = hheaDescender;
-value = -298;
+value = -210;
 },
 {
 name = underlinePosition;
@@ -311,7 +341,7 @@ value = 790;
 },
 {
 name = winDescent;
-value = 210;
+value = -210;
 },
 {
 name = hheaAscender;
@@ -372,7 +402,7 @@ xHeight = 483;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2017-11-15 00:39:04 +0000";
+lastChange = "2017-11-16 21:48:55 +0000";
 layers = (
 {
 anchors = (
@@ -3352,7 +3382,7 @@ unicode = 00CB;
 },
 {
 glyphname = Edotaccent;
-lastChange = "2017-11-16 16:53:43 +0000";
+lastChange = "2017-11-16 20:56:22 +0000";
 layers = (
 {
 components = (
@@ -10867,7 +10897,7 @@ unicode = 00DA;
 },
 {
 glyphname = Ucircumflex;
-lastChange = "2017-11-16 16:54:00 +0000";
+lastChange = "2017-11-16 21:34:54 +0000";
 layers = (
 {
 components = (
@@ -10940,7 +10970,7 @@ unicode = 00DB;
 },
 {
 glyphname = Udieresis;
-lastChange = "2017-11-16 16:54:00 +0000";
+lastChange = "2017-11-16 20:56:00 +0000";
 layers = (
 {
 components = (
@@ -10993,20 +11023,6 @@ transform = "{1, 0, 0, 1, 266, 181}";
 );
 layerId = "C7F6927E-AE81-4ED8-A250-E7EE5BA9BBA4";
 width = 767;
-},
-{
-associatedMasterId = "C74BD54B-DC3B-4084-AB10-E48D432FD11D";
-components = (
-{
-name = U;
-},
-{
-name = dieresis;
-transform = "{1, 0, 0, 1, 211, 177}";
-}
-);
-layerId = "C904C5FD-088D-4660-AED1-28B1A7BC3F9F";
-width = 672;
 }
 );
 unicode = 00DC;
@@ -60389,5 +60405,5 @@ oV = "33";
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 2;
 }
