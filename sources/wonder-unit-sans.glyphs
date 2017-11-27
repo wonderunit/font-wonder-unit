@@ -1,6 +1,6 @@
 {
 .appVersion = "1075";
-copyright = "Copyright © 2017 by Wonder Unit. All rights reserved.";
+copyright = "Copyright © 2017 The Wonder Unit Sans Project Authors. All rights reserved.";
 customParameters = (
 {
 name = vendorID;
@@ -32,7 +32,7 @@ value = (
 );
 date = "2017-11-16 21:31:21 +0000";
 designer = "Charles Forman";
-designerURL = "https://wonderunit.com";
+designerURL = "https://setpixel.com";
 disablesNiceNames = 1;
 familyName = "Wonder Unit Sans";
 featurePrefixes = (
@@ -60423,8 +60423,8 @@ quotesingle = {
 };
 };
 };
-manufacturer = "Wonder Unit Inc.";
-manufacturerURL = "https://wonderunit.com";
+manufacturer = "Set Pixel";
+manufacturerURL = "https://setpixel.com";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
