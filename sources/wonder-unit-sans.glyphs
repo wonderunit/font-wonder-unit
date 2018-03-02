@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+Please
+);
 copyright = "Copyright © 2017 The Wonder Unit Sans Project Authors. All rights reserved.";
 customParameters = (
 {
@@ -644,7 +647,7 @@ unicode = 00C1;
 },
 {
 glyphname = Abreve;
-lastChange = "2017-11-16 16:53:28 +0000";
+lastChange = "2017-11-30 03:49:23 +0000";
 layers = (
 {
 components = (
@@ -8294,7 +8297,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2017-11-11 22:13:35 +0000";
+lastChange = "2017-11-30 03:50:34 +0000";
 layers = (
 {
 layerId = "C74BD54B-DC3B-4084-AB10-E48D432FD11D";
@@ -8480,7 +8483,7 @@ width = 555;
 );
 leftKerningGroup = exclam;
 note = P;
-rightKerningGroup = P;
+rightKerningGroup = l;
 unicode = 0050;
 },
 {
@@ -16443,7 +16446,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2017-11-15 02:55:44 +0000";
+lastChange = "2017-11-30 03:49:58 +0000";
 layers = (
 {
 anchors = (
@@ -57739,13 +57742,13 @@ kerning = {
 "@MMK_R_tau" = -90;
 };
 "@MMK_L_P" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -30;
 "@MMK_R_J" = -100;
 "@MMK_R_Jcircumflex.smcp" = -90;
 "@MMK_R_a" = -20;
 "@MMK_R_ampersand" = -20;
 "@MMK_R_ampersand.smcp" = -30;
-"@MMK_R_c" = -10;
+"@MMK_R_c" = -50;
 "@MMK_R_comma" = -100;
 "@MMK_R_hyphen" = -40;
 "@MMK_R_lambda" = -80;
@@ -58311,6 +58314,9 @@ seven = {
 };
 six = {
 "@MMK_R_nine" = -28;
+};
+"@MMK_L_l" = {
+"@MMK_R_A" = -10;
 };
 };
 "043C55D1-ADA8-4506-BB55-8127E14D1A36" = {
