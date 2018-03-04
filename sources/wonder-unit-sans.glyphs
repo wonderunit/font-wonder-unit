@@ -8297,7 +8297,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2017-11-30 03:50:34 +0000";
+lastChange = "2018-03-02 04:06:52 +0000";
 layers = (
 {
 layerId = "C74BD54B-DC3B-4084-AB10-E48D432FD11D";
@@ -58114,6 +58114,9 @@ i = 0;
 i = 25;
 quotesingle = -22;
 };
+"@MMK_L_l" = {
+"@MMK_R_A" = 0;
+};
 "@MMK_L_lambda" = {
 "@MMK_R_C" = -30;
 "@MMK_R_Cacute.smcp" = -20;
@@ -58314,9 +58317,6 @@ seven = {
 };
 six = {
 "@MMK_R_nine" = -28;
-};
-"@MMK_L_l" = {
-"@MMK_R_A" = -10;
 };
 };
 "043C55D1-ADA8-4506-BB55-8127E14D1A36" = {
